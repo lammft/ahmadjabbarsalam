@@ -1,0 +1,91 @@
+.web{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+}
+
+.web:hover{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+.home{
+    color: white;
+    background-color: blue;
+}
+
+.peser:active:active{
+    background-color: blue;
+}
+
+.contact:active{
+    background-color: blue;
+}
+
+.bg{
+    background-image: url(https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-logo/22fe2822238f4bee93dedf220be96675.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 747px;
+    font-variant: small-caps;
+    color: white;
+    text-decoration: underline;
+}
+
+.h1:hover{
+    background-color: blue;
+}
+
+.jdl1{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.jdl1:hover{
+    background-color: blue;
+}
+
+.jdl2{
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.jdl2:hover{
+    background-color: chartreuse;
+}
+
+.jdl3{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.jdl3:hover{
+    background-color: salmon;
+}
+
+.nama{
+    color: greenyellow;
+}
+
+.cp{
+    text-align: center;
+}
+
+.cp:hover{
+    background-color: blue;
+    padding: 10px;
+}
